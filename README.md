@@ -8,7 +8,7 @@
 
 Этот репозиторий призван помочь как ТМ, так и пользователям для того чтобы следить и учавствовать в развитии проекта.
 
-#### Вот список наших пожеланий, отсортированных по количеству +1 голосов: [https://github.com/limonte/dear-habr/issues](https://github.com/limonte/dear-habr/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc)
+#### Cписок пожеланий, отсортированных по количеству +1 голосов: [https://github.com/limonte/dear-habr/issues](https://github.com/limonte/dear-habr/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc)
 
 ---
 
