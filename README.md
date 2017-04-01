@@ -1,3 +1,5 @@
+[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/limonte/dear-habr.svg)](http://isitmaintained.com/project/limonte/dear-habr "Average time to resolve an issue")
+[![Percentage of issues still open](http://isitmaintained.com/badge/open/limonte/dear-habr.svg)](http://isitmaintained.com/project/limonte/dear-habr "Percentage of issues still open")
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dear-habr/Lobby)
 
 #### Дорогой Хабр,
